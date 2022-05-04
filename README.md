@@ -2,10 +2,10 @@
 CODE REVIEW FOR PYTHON CODE
 
 I have noted the following in the code given below
--The code uses a class. I think a function will suffice
-- The code does not run, it presented a lot of errors
-- The class is not initialised with the `def __init__` initialiser
-- The code is not efficient
+-The code uses a class. I think a function will suffice.
+- The code does not run. It presented a lot of errors on running.
+- The class is not initialised with the `def __init__` initialiser.
+- The code is not efficient.
 
 Here is the given code
 
